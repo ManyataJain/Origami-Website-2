@@ -1,0 +1,32 @@
+.Part1{
+   align-self: center;
+   font-size: 24px;
+   font-weight: bold;
+   color: rgb(24, 36, 11);
+   justify-content: center;
+   
+}
+
+.Part2{
+    align-self: center;
+    font-size: 24px;
+    justify-content: center;
+    font-weight: bold;
+    color: rgb(24, 36, 11);
+    
+}
+
+.Part3{
+    align-self: center;
+    font-size: 24px;
+    justify-content: center;
+    font-weight: bold;
+    color: rgb(24, 36, 11);
+   
+}
+
+.About{
+    justify-content: right;
+}
+
+
